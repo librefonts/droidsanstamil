@@ -1,0 +1,84 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Droid Sans Tamil
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Digitized data copyright (c) 2011-2012, Google Corporation.
+    License: Licensed under the OFL license, version 1.1
+    License url: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+    Version: Version 1.00
+    Vendor: Monotype Imaging Inc.
+    Vendor url: http://www.monotypeimaging.com
+    Designer: Jelle Bosma
+    Designer url: http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase
+    Glyph count: 209
+    Character count: 129
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Droid Sans Tamil
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Digitized data copyright (c) 2011-2012, Google Corporation.
+    License: Licensed under the OFL license, version 1.1
+    License url: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+    Version: Version 1.02
+    Vendor: Monotype Imaging Inc.
+    Vendor url: http://www.monotypeimaging.com
+    Designer: Jelle Bosma
+    Designer url: http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase
+    Glyph count: 208
+    Character count: 129
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
